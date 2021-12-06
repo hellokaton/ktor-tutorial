@@ -58,6 +58,11 @@
             <version>${logback_version}</version>
         </dependency>
         <dependency>
+            <groupId>org.danilopianini</groupId>
+            <artifactId>khttp</artifactId>
+            <version>0.1.0-dev30+51fa9ae</version>
+        </dependency>
+        <dependency>
             <groupId>io.ktor</groupId>
             <artifactId>ktor-server-tests</artifactId>
             <version>${ktor_version}</version>
